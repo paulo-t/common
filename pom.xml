@@ -12,7 +12,7 @@
         <poi.version>3.13</poi.version>
         <dom4j.version>1.6.1</dom4j.version>
         <common-lang.version>3.9</common-lang.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <spring-web.version>5.2.5.RELEASE</spring-web.version>
         <tomcat-embed-core.version>9.0.33</tomcat-embed-core.version>
         <maven.compiler.source>1.8</maven.compiler.source>
