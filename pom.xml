@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <lombok.version>1.18.10</lombok.version>
-        <poi.version>3.13</poi.version>
+        <poi.version>4.1.1</poi.version>
         <dom4j.version>1.6.1</dom4j.version>
         <common-lang.version>3.9</common-lang.version>
         <guava.version>28.1-jre</guava.version>
